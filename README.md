@@ -1,6 +1,7 @@
-### Yolo Detector Class
+### Yolo Detector Class 
 
-A class-based refactor based off [pyimagesearch]('https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/')
+A class-based refactor based off [pyimagesearch](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
+
 
 ## Requirements
 
@@ -14,6 +15,7 @@ A class-based refactor based off [pyimagesearch]('https://www.pyimagesearch.com/
 
 ex: `python yolo_image.py --image images/baggage_claim.jpg --yolo yolo-coco`  
 
+![image_detection](https://imgur.com/a/mpv6hiw)
 
 | Command      | Shortcut | Description                                    | Required | Default |
 |--------------|----------|------------------------------------------------|----------|---------|
@@ -25,9 +27,6 @@ ex: `python yolo_image.py --image images/baggage_claim.jpg --yolo yolo-coco`
 
 ### Video Detector
 
-ex: `python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco`  
-
-
 | Command      | Shortcut | Description                                    | Required | Default |
 |--------------|----------|------------------------------------------------|----------|---------|
 | --input      | -i       | path to input video"                           | True     |         |
@@ -36,3 +35,6 @@ ex: `python yolo_video.py --input videos/airport.mp4 --output output/airport_out
 | --confidence | -c       | minimum probability to filter weak detections  |          | 0.5     |
 | --threshold  | -t       | threshold when applying non-maxima suppression |          | 0.3     |
 
+ex: `python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco`    
+
+![video_detection](https://giphy.com/gifs/TfFjAGTUfAnKZBCIgL)
