@@ -19,7 +19,6 @@ class Detector:
     idxs = self.smooth_response_map()
     if len(idxs) > 0:
       for i in idxs.flatten():
-        print("drawing bounding box")
         self.draw_bounding_box(i)
     return self.image
 

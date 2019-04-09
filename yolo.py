@@ -8,10 +8,6 @@ import time
 import cv2
 import os
 
-LABEL = "person"
-np.random.seed(42) 
-COLOR = np.random.randint(0, 255, 3, dtype="uint8")
-
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True,
