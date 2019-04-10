@@ -15,7 +15,9 @@ A class-based refactor based off [pyimagesearch](https://www.pyimagesearch.com/2
 
 ex: `python yolo_image.py --image images/baggage_claim.jpg --yolo yolo-coco`  
 
-![alt text](https://i.imgur.com/JBIAP8O.png "image detection")
+![image detection](https://i.imgur.com/JBIAP8O.png)
+
+<img src="https://i.imgur.com/JBIAP8O.png" width="550">
 
 | Command      | Shortcut | Description                                    | Required | Default |
 |--------------|----------|------------------------------------------------|----------|---------|
