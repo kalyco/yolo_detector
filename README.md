@@ -15,7 +15,7 @@ A class-based refactor based off [pyimagesearch](https://www.pyimagesearch.com/2
 
 ex: `python yolo_image.py --image images/baggage_claim.jpg --yolo yolo-coco`  
 
-![alt text](https://imgur.com/a/mpv6hiw "image detection")
+![alt text](https://i.imgur.com/JBIAP8O.png "image detection")
 
 | Command      | Shortcut | Description                                    | Required | Default |
 |--------------|----------|------------------------------------------------|----------|---------|
@@ -37,4 +37,4 @@ ex: `python yolo_image.py --image images/baggage_claim.jpg --yolo yolo-coco`
 
 ex: `python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco`    
 
-![alt text](https://giphy.com/gifs/TfFjAGTUfAnKZBCIgL "video detection")
+![alt text](https://media.giphy.com/media/TfFjAGTUfAnKZBCIgL/giphy.gif "video detection")
