@@ -1,6 +1,6 @@
 ### Yolo Detector Class 
 
-A class-based refactor based off [pyimagesearch](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
+Image and Video detector class functions based off [pyimagesearch](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/) and [yolo](https://pjreddie.com/darknet/yolo/)
 
 
 ## Requirements
