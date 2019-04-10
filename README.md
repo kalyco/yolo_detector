@@ -37,4 +37,4 @@ ex: `python yolo_image.py --image images/baggage_claim.jpg --yolo yolo-coco`
 
 ex: `python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco`    
 
-![alt text](https://media.giphy.com/media/TfFjAGTUfAnKZBCIgL/giphy.gif "video detection")
+![alt text](https://media.giphy.com/media/kDMhX5DTH11VkZxpwq/giphy.gif "video detection")
